@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Marcos Lopes juvencio  
+# Marcos Lopes juvêncio  
 
 - 🔭 Trabalhando com front-end
 - 🖉 Estudando typescript
