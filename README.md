@@ -4,6 +4,6 @@
 
 - 🔭 Trabalhando como Freelancer - Front-end
 - 🖉 Estudando typescript
-- 📕 Gosto de ensinar por isso criei a   [Eprogramador](http://eprogramador "Eprogramador") ...
+- 📕 Gosto de ensinar por isso criei o canal    [devbymarcos](https://www.youtube.com/@devbymarcos/videos) ...
 - 📕 Estudando Análise e desenvolvimento de sistemas 
 
