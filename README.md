@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# Meu nome é  Marcos Lopes juvêncio, mas você me encontra nas redes como `@devbymarcos`
+# Meu nome é Marcos Lopes Juvêncio, mas você me encontra nas redes como `@devbymarcos`
 
-- 🔭 Trabalhando como Freelancer - Front-end
-- 🖉 Estudando typescript
-- 📕 Gosto de ensinar por isso criei o canal    [devbymarcos](https://www.youtube.com/@devbymarcos/videos) ...
-- 📕 Estudando Análise e desenvolvimento de sistemas 
+- 🔭 Trabalho como Freelancer - Front-end
+- 🖉 Estudo TypeScript
+- 📕 Gosto de ensinar, por isso criei o canal [devbymarcos](https://www.youtube.com/@devbymarcos/videos)...
+- 📕 Estudo Análise e Desenvolvimento de Sistemas
 
